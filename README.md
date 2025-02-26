@@ -25,5 +25,5 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Learn More
 
-You can check out [Geist](https://ollama.com) to find how to get localLLM working before running this project.
+You can check out [ollama](https://ollama.com) to find how to get localLLM working before running this project.
 
